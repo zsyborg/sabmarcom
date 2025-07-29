@@ -5919,7 +5919,7 @@ body.tp-magic-cursor #magic-cursor {
   top: 100%;
   left: 0;
   right: 0;
-  max-width: 1760px;
+  max-width: 400px;
   margin: 0 auto;
   overflow: hidden;
   border-radius: 14px;
@@ -5933,7 +5933,8 @@ body.tp-magic-cursor #magic-cursor {
 }
 @media only screen and (min-width: 1600px) and (max-width: 1700px), only screen and (min-width: 1400px) and (max-width: 1599px), only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-megamenu-wrapper {
-    max-width: calc(100% - 40px);
+    /* max-width: calc(100% - 40px); */
+    max-width: 400px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
@@ -19987,7 +19988,7 @@ body.tp-magic-cursor #magic-cursor {
   }
 }
 .tp-service-4-process-list p {
-  font-size: 26px;
+  font-size: 20px;
   font-weight: 500;
   color: #111013;
   line-height: 1.2;
