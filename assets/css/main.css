@@ -43301,7 +43301,7 @@ body.tp-magic-cursor #magic-cursor {
   color: var(--tp-common-black);
 }
 .agntix-light .creative-brand-item img {
-  filter: invert(1);
+  /* filter: invert(1); */
 }
 .agntix-light .tp-section-title.fs-64 {
   color: var(--tp-common-black);
