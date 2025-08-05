@@ -3224,8 +3224,8 @@ input[type=color] {
 /*  2.9 Section Title
 /*----------------------------------------*/
 .tp-hero-title {
-  font-weight: 700;
-  font-size: 220px;
+  font-weight: 200;
+  font-size: 80px;
   line-height: 0.9;
   margin-bottom: 0;
   letter-spacing: -0.08em;
@@ -3481,7 +3481,7 @@ input[type=color] {
 
 .tp-section-title {
   font-size: 80px;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1;
   letter-spacing: -0.08em;
   text-transform: uppercase;
@@ -14890,8 +14890,8 @@ body.tp-magic-cursor #magic-cursor {
   }
 }
 .tp-about-text p {
-  font-weight: 600;
-  font-size: 50px;
+  font-weight: 400;
+  font-size: 40px;
   line-height: 1.2;
   margin-right: 60px;
   margin-bottom: 80px;
@@ -14900,7 +14900,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-about-text p {
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -23443,7 +23443,7 @@ body.tp-magic-cursor #magic-cursor {
   font-family: var(--tp-ff-besley);
 }
 .tp-work-title {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 30px;
   line-height: 1.2;
   letter-spacing: -0.04em;
