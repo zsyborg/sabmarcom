@@ -45516,4 +45516,8 @@ body.tp-magic-cursor #magic-cursor {
   background-color: var(--tp-common-white);
 }
 
+
+.locations img{
+  width: 80px;
+}
 /*# sourceMappingURL=main.css.map */
