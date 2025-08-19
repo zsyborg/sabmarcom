@@ -1,12 +1,4 @@
-/*-----------------------------------------------------------------------------------
 
-    Template Name: Agntix - Digital Agency & Creative Portfolio HTML Template
-    Author: Theme_Pure
-    Support: https://help.themepure.net/support/
-    Description: Template
-    Version: 1.0.3
-
------------------------------------------------------------------------------------
 
 /************ TABLE OF CONTENTS ***************
 
@@ -45521,3 +45513,12 @@ body.tp-magic-cursor #magic-cursor {
   width: 80px;
 }
 /*# sourceMappingURL=main.css.map */
+
+
+.tp-header-menu nav ul {
+  text-align: right;
+}
+
+.creative-brand-item img{
+  height: 100px;
+}
