@@ -45522,3 +45522,12 @@ body.tp-magic-cursor #magic-cursor {
 .creative-brand-item img{
   height: 100px;
 }
+
+
+.whatsapp-icon{
+  position: fixed;
+  right: 0px;
+  top: 40%;
+  width: 50px;
+  z-index: 9999;
+}
