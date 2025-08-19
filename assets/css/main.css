@@ -9438,6 +9438,10 @@ body.tp-magic-cursor #magic-cursor {
   transform: translateY(-2px);
   background-color: var(--tp-common-red-3);
 }
+.tp-footer-widget-social{
+  display: none;
+  visibility: hidden;
+}
 .tp-footer-widget-social a {
   height: 42px;
   width: 42px;
