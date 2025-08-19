@@ -5909,9 +5909,10 @@ body.tp-magic-cursor #magic-cursor {
   visibility: hidden;
   padding-top: 45px;
   top: 100%;
-  left: 0;
-  right: 0;
+  /* left: 0; */
+  right: 60px;
   max-width: 400px;
+  width: 400px;
   margin: 0 auto;
   overflow: hidden;
   border-radius: 14px;
